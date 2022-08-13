@@ -53,10 +53,14 @@ params:
   socialIcons:
     - name: twitter
       url: "https://twitter.com/vharmers"
+    - name: keybase
+      url: "https://keybase.io/valentijnharmers"
     - name: linkedin
       url: "https://www.linkedin.com/in/valentijnharmers/"
     - name: github
       url: "https://github.com/vharmers"
+    - name: rss
+      url: "index.xml"
 
 menu:
   main:
