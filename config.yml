@@ -1,0 +1,80 @@
+baseURL: https://vharmers.github.io/blog
+languageCode: en-us
+title: Valentine's Blog
+theme: [ "hugo-notice", "PaperMod" ]
+
+enableRobotsTXT: true
+buildDrafts: true
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: Production
+  title: Valentine's Blog
+  description: "My personal blog about tech and hobbies"
+  keywords: [Blog, Technology, Hobbies]
+  author: Valentijn Harmers
+  # author: ["Me", "You"] # multiple authors
+  #images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: false
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  editPost:
+    URL: "https://github.com/vharmers/blog/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  homeInfoParams:
+      Title: "Valentine's blog"
+      Content: >
+          My personal blog about tech and other hobbies
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/vharmers"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/valentijnharmers/"
+    - name: github
+      url: "https://github.com/vharmers"
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 30
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
