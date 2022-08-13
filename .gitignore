@@ -4,4 +4,4 @@
 # Except git file
 !.gitignore
 !.gitmodules
-!.github/*
+!.github*
