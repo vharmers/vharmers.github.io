@@ -1,0 +1,6 @@
+# Ignore hidden files
+.*
+
+# Except git file
+!.gitignore
+!.gitmodules
