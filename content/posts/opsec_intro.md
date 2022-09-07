@@ -124,3 +124,11 @@ Ubuntu and Fedora already have package managers of their own. There is no need t
 ## Closing remarks
 
 This will be all for today. Take your time to process all the information I have given you. Don't forget to relax once in a while. Maybe play a game to take your mind off things. I will see you in the next post.
+
+## Contacting the author
+
+Do you have any questions, feedback or remarks after reading this post? Feel free to contact me. You can find my contact info on the [home page]({{< ref "/" >}}) of this blog.
+
+{{< notice warning >}}
+I am quite strict on who I add as a connection on Linkedin. I prefer to not accept connection requests from strangers. You are always free to shoot me a message though.
+{{< /notice >}}
