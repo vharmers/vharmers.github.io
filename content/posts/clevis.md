@@ -9,7 +9,7 @@ tags: ["linux", "ubuntu", "fedora", "opsec"]
 ---
 
 Typing your password at every system bootup might get you annoyed at times.
-Especially when you are used to Windows and macOS systems which store the 
+Especially when you are used to Windows and macOS systems which store the
 disk decryption password in the TPM.
 
 But what if I told you that you can also achieve this on your Linux setup.
