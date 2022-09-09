@@ -5,6 +5,6 @@ author: "Valentijn Harmers"
 draft: true
 showtoc: false
 description: "Desc Text."
-tags: ["first"]
+categories: ["Technology"]
+tags: ["opsec", "macos", "windows", "linux"]
 ---
-
