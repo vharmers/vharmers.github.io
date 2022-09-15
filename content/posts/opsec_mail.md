@@ -88,9 +88,9 @@ We need an application that implements the OpenPGP standard. GnuPG is the best c
 
 ```
 brew install gpg pinentry-mac   # macOS
-apt install gpg                 # Debian/Ubuntu
-dnf install gpg                 # Fedora
-choco install gpg               # Windows
+apt install gnupg               # Debian/Ubuntu
+dnf install gnupg2              # Fedora
+choco install gpg4win           # Windows
 ```
 
 ### Configuring your system
