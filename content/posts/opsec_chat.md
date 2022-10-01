@@ -115,7 +115,7 @@ Authentication and trust is where Keybase shines. Its advanced authentication fe
 
 #### Privacy
 {{< notice warning >}}
-I am not a lawyer or someone who is certified to give legal advice. I will try to summarize the privacy policies of the to be reviewed products and services to the best of my ability, but cannot guarantee that I won’t make any mistakes while trying to understand, simplify and summarize the text.
+I am not a lawyer or someone who is qualified to give legal advice. I will try to summarize the privacy policies of the to be reviewed products and services to the best of my ability, but cannot guarantee that I won’t make any mistakes while trying to understand, simplify and summarize the text.
 
 Basically, when stuff gets serious, don’t rely on advice from some dude on the internet. You can quote me on that one!
 {{< /notice >}}
