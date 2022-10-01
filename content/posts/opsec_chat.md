@@ -15,7 +15,7 @@ cover:
   hidden: false
 ---
 
-*This post is part of a larger series. You can find all posts over [here]({{< ref "/categories/opsec-series">}})*
+*This post is part of a larger series. You can find all posts over [here]({{< ref "/categories/opsec-series">}})*.
 
 Hello and welcome to a new blog post in the OpSec blog series. As already mentioned in the [previous post]({{< ref "opsec_mail" >}}), this one will be about chat platforms.
 

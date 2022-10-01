@@ -15,7 +15,7 @@ cover:
   hidden: false
 ---
 
-*This post is part of a larger series. You can find all posts over [here]({{< ref "/categories/opsec-series">}})*
+*This post is part of a larger series. You can find all posts over [here]({{< ref "/categories/opsec-series">}})*.
 
 Welcome to the second blog post in this blogging series. I recommend reading the introduction post before starting with this one. Email is one of the oldest ways to communicate on the world wide web. And since the internet was created with openness in mind, so it shouldn't come as a surprise that e-mail wasn't designed to be very secure. Sending an e-mail is like sending a postcard. Every party involved in the delivery process can read the contents of the message. From the people working in the distribution centers to the mailman who delivers the card to your door.
 
