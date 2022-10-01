@@ -520,7 +520,7 @@ gpg --recv-key 26B6896326F977B6FA0DBE4B1D047E24FC1B1408
 ```
 
 {{< notice warning >}}
-The most reliable way to receive someone's key is by using the long ID. You can use the short ID if the long one is too much type work. Retrieving a key based on e-mail address can be tricky. Not all key servers verify the e-mail address that is used with the key.
+The most reliable way to receive someone's key is by using the long ID. You can use the short ID if the long one is too much typing work. Retrieving a key based on e-mail address can be tricky. Not all key servers verify the e-mail address that is used with the key.
 {{< /notice >}}
 
 ### Storing your key on a YubiKey
@@ -624,7 +624,7 @@ ykman opengpg keys set-touch sig cached
 ykman opengpg keys set-touch enc cached
 ```
 
-The commands above will configure the Key to require touch for authentication, singing and encryption operations. The action will be remembered for 15 seconds. This ensures the YubiKey will play nice with things like mail client plugins. You might want to set the value to 'off' for 'aut' if you use things like Ansible. Unless you like touching the YubiKey every 15 seconds during a run, its your party.
+The commands above will configure the Key to require touch for authentication, signing and encryption operations. The action will be remembered for 15 seconds. This ensures the YubiKey will play nice with things like mail client plugins. You might want to set the value to 'off' for 'aut' if you use things like Ansible. Unless you like touching the YubiKey every 15 seconds during a run, its your party.
 
 **Step 9:** Move your master and sub keys to the card. The following code block will show you how to do this:
 
