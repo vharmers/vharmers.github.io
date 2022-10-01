@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>OpSec Series on Valentine&#39;s Blog</title>
-    <link>https://vharmers.github.io/blog/categories/opsec-series/</link>
+    <link>https://www.vharmers.com/categories/opsec-series/</link>
     <description>Recent content in OpSec Series on Valentine&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Oct 2022 02:18:38 +0200</lastBuildDate><atom:link href="https://vharmers.github.io/blog/categories/opsec-series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Oct 2022 02:18:38 +0200</lastBuildDate><atom:link href="https://www.vharmers.com/categories/opsec-series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The OpSec blog series - Chat platforms</title>
-      <link>https://vharmers.github.io/blog/posts/opsec_chat/</link>
+      <link>https://www.vharmers.com/posts/opsec_chat/</link>
       <pubDate>Sat, 01 Oct 2022 02:18:38 +0200</pubDate>
       
-      <guid>https://vharmers.github.io/blog/posts/opsec_chat/</guid>
+      <guid>https://www.vharmers.com/posts/opsec_chat/</guid>
       <description>The third post in the OpSec series covering Chat Platforms</description>
     </item>
     
     <item>
       <title>The OpSec blog series - E-mail encryption</title>
-      <link>https://vharmers.github.io/blog/posts/opsec_mail/</link>
+      <link>https://www.vharmers.com/posts/opsec_mail/</link>
       <pubDate>Tue, 13 Sep 2022 13:47:45 +0200</pubDate>
       
-      <guid>https://vharmers.github.io/blog/posts/opsec_mail/</guid>
+      <guid>https://www.vharmers.com/posts/opsec_mail/</guid>
       <description>The second post in the OpSec blog series. This one covers e-mail encryption</description>
     </item>
     
     <item>
       <title>The OpSec blog series - Introduction</title>
-      <link>https://vharmers.github.io/blog/posts/opsec_intro/</link>
+      <link>https://www.vharmers.com/posts/opsec_intro/</link>
       <pubDate>Wed, 07 Sep 2022 01:31:21 +0200</pubDate>
       
-      <guid>https://vharmers.github.io/blog/posts/opsec_intro/</guid>
+      <guid>https://www.vharmers.com/posts/opsec_intro/</guid>
       <description>Introduction to the OpSec blog series</description>
     </item>
     
