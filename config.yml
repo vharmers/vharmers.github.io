@@ -1,4 +1,4 @@
-baseURL: https://vharmers.github.io/blog
+baseURL: https://www.vharmers.com
 languageCode: en-us
 title: Valentine's Blog
 theme: [ "hugo-notice", "PaperMod" ]
