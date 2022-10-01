@@ -3,7 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://vharmers.github.io/blog/categories/</loc>
-    <lastmod>2022-09-13T13:47:45+02:00</lastmod>
+    <lastmod>2022-10-01T02:18:38+02:00</lastmod>
+  </url><url>
+    <loc>https://vharmers.github.io/blog/tags/opsec/</loc>
+    <lastmod>2022-10-01T02:18:38+02:00</lastmod>
+  </url><url>
+    <loc>https://vharmers.github.io/blog/categories/opsec-series/</loc>
+    <lastmod>2022-10-01T02:18:38+02:00</lastmod>
+  </url><url>
+    <loc>https://vharmers.github.io/blog/posts/</loc>
+    <lastmod>2022-10-01T02:18:38+02:00</lastmod>
+  </url><url>
+    <loc>https://vharmers.github.io/blog/tags/</loc>
+    <lastmod>2022-10-01T02:18:38+02:00</lastmod>
+  </url><url>
+    <loc>https://vharmers.github.io/blog/categories/technology/</loc>
+    <lastmod>2022-10-01T02:18:38+02:00</lastmod>
+  </url><url>
+    <loc>https://vharmers.github.io/blog/posts/opsec_chat/</loc>
+    <lastmod>2022-10-01T02:18:38+02:00</lastmod>
+  </url><url>
+    <loc>https://vharmers.github.io/blog/</loc>
+    <lastmod>2022-10-01T02:18:38+02:00</lastmod>
   </url><url>
     <loc>https://vharmers.github.io/blog/tags/linux/</loc>
     <lastmod>2022-09-13T13:47:45+02:00</lastmod>
@@ -11,25 +32,7 @@
     <loc>https://vharmers.github.io/blog/tags/macos/</loc>
     <lastmod>2022-09-13T13:47:45+02:00</lastmod>
   </url><url>
-    <loc>https://vharmers.github.io/blog/tags/opsec/</loc>
-    <lastmod>2022-09-13T13:47:45+02:00</lastmod>
-  </url><url>
-    <loc>https://vharmers.github.io/blog/categories/opsec-series/</loc>
-    <lastmod>2022-09-13T13:47:45+02:00</lastmod>
-  </url><url>
-    <loc>https://vharmers.github.io/blog/posts/</loc>
-    <lastmod>2022-09-13T13:47:45+02:00</lastmod>
-  </url><url>
-    <loc>https://vharmers.github.io/blog/tags/</loc>
-    <lastmod>2022-09-13T13:47:45+02:00</lastmod>
-  </url><url>
-    <loc>https://vharmers.github.io/blog/categories/technology/</loc>
-    <lastmod>2022-09-13T13:47:45+02:00</lastmod>
-  </url><url>
     <loc>https://vharmers.github.io/blog/posts/opsec_mail/</loc>
-    <lastmod>2022-09-13T13:47:45+02:00</lastmod>
-  </url><url>
-    <loc>https://vharmers.github.io/blog/</loc>
     <lastmod>2022-09-13T13:47:45+02:00</lastmod>
   </url><url>
     <loc>https://vharmers.github.io/blog/tags/windows/</loc>
