@@ -9,7 +9,7 @@ tags: ["opsec", "macos", "windows", "linux"]
 cover:
   image: "posts/life_raft/beach.png"
   alt: "Beach"
-  caption: "Image by [Cris Ramos](https://pixabay.com/nl/users/cris00001-4795139/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2245049) on [Pixabay](https://pixabay.com/nl//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2245049)"
+  caption: "Image by [Cris Ramos](https://pixabay.com/nl/users/cris00001-4795139/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2245049) from [Pixabay](https://pixabay.com/nl//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2245049)"
   relative: true
   hidden: false
 ---

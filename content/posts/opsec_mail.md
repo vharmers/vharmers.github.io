@@ -10,7 +10,7 @@ tags: ["opsec", "windows", "linux", "macos"]
 cover:
   image: "posts/opsec_mail/email.png"
   alt: "e-mail"
-  caption: "Image made by [Tumisu](https://pixabay.com/nl/users/tumisu-148124/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2362038) taken from [Pixabay](https://pixabay.com/nl//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2362038)"
+  caption: "Image by [Tumisu](https://pixabay.com/nl/users/tumisu-148124/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2362038) from [Pixabay](https://pixabay.com/nl//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2362038)"
   relative: true
   hidden: false
 ---
