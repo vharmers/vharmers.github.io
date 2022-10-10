@@ -14,7 +14,7 @@ cover:
   hidden: false
 ---
 
-Over the span of our lives, we accumulate a lot of stuff. Some of this stuff is precious to us so we keep it in a secure place like a safe or strongbox. Some of this specious stuff can also be digital and therefore must be secured into digital strongboxes and safes but what happens when you lose the key?
+Over the span of our lives, we accumulate a lot of stuff. Some of this stuff is precious to us so we keep it in a secure place like a safe or strongbox. Some of this precious stuff can also be digital and therefore must be secured into digital strongboxes and safes but what happens when you lose the key?
 
 When your work in IT, you have a minimum of two employers: the company you work for and your family. I am the designated IT support and data custodian at home. It’s my job to keep all family pictures and other important files complete and available. And after going through the experience of losing my pictures of our vacation trip to Paris years ago, I am next to paranoid when it comes to making backups.
 
