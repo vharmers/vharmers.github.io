@@ -6,7 +6,16 @@
     <description>Recent content in Technology on Valentine&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Oct 2022 02:18:38 +0200</lastBuildDate><atom:link href="https://www.vharmers.com/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Mar 2023 20:00:00 +0100</lastBuildDate><atom:link href="https://www.vharmers.com/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The OpSec Series - Authentication</title>
+      <link>https://www.vharmers.com/posts/opsec_auth/</link>
+      <pubDate>Tue, 14 Mar 2023 20:00:00 +0100</pubDate>
+      
+      <guid>https://www.vharmers.com/posts/opsec_auth/</guid>
+      <description>The fourth post in the OpSec series covering Authentication</description>
+    </item>
+    
     <item>
       <title>The OpSec blog series - Chat platforms</title>
       <link>https://www.vharmers.com/posts/opsec_chat/</link>

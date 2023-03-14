@@ -6,22 +6,40 @@
     <description>Recent content in Tags on Valentine&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Oct 2022 02:18:38 +0200</lastBuildDate><atom:link href="https://www.vharmers.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Mar 2023 20:00:00 +0100</lastBuildDate><atom:link href="https://www.vharmers.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>linux</title>
+      <link>https://www.vharmers.com/tags/linux/</link>
+      <pubDate>Tue, 14 Mar 2023 20:00:00 +0100</pubDate>
+      
+      <guid>https://www.vharmers.com/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mac</title>
+      <link>https://www.vharmers.com/tags/mac/</link>
+      <pubDate>Tue, 14 Mar 2023 20:00:00 +0100</pubDate>
+      
+      <guid>https://www.vharmers.com/tags/mac/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>opsec</title>
       <link>https://www.vharmers.com/tags/opsec/</link>
-      <pubDate>Sat, 01 Oct 2022 02:18:38 +0200</pubDate>
+      <pubDate>Tue, 14 Mar 2023 20:00:00 +0100</pubDate>
       
       <guid>https://www.vharmers.com/tags/opsec/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>linux</title>
-      <link>https://www.vharmers.com/tags/linux/</link>
-      <pubDate>Tue, 13 Sep 2022 13:47:45 +0200</pubDate>
+      <title>windows</title>
+      <link>https://www.vharmers.com/tags/windows/</link>
+      <pubDate>Tue, 14 Mar 2023 20:00:00 +0100</pubDate>
       
-      <guid>https://www.vharmers.com/tags/linux/</guid>
+      <guid>https://www.vharmers.com/tags/windows/</guid>
       <description></description>
     </item>
     
@@ -31,15 +49,6 @@
       <pubDate>Tue, 13 Sep 2022 13:47:45 +0200</pubDate>
       
       <guid>https://www.vharmers.com/tags/macos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>windows</title>
-      <link>https://www.vharmers.com/tags/windows/</link>
-      <pubDate>Tue, 13 Sep 2022 13:47:45 +0200</pubDate>
-      
-      <guid>https://www.vharmers.com/tags/windows/</guid>
       <description></description>
     </item>
     
