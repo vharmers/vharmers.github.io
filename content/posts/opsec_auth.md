@@ -281,7 +281,7 @@ This command will re-encrypt all entries with the keys listed in the *.gpg_id* f
 You might want to look into a modernized version of pass called [gopass](https://www.gopass.pw) if are interested in a solution that works better for a group.
 
 {{< notice warning >}}
-The are some security related issues to consider when using solutions like pass or gopass:
+There are some security related issues to consider when using solutions like pass or gopass:
 
 - Entry names are not encrypted. An attacker can therefore see on which sites their victim has an account if they manage to gain access to the git repository.
 - An attacker can add their own key id to the *.gpg_id* file and wait for someone else re-initialize the store, allowing them to decrypt all entries.
