@@ -52,8 +52,8 @@ params:
           My personal blog about tech and other hobbies
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/vharmers"
+    - name: email
+      url: "mailto:knagingen.adelaars-0d@icloud.com"
     - name: keybase
       url: "https://keybase.io/valentijnharmers"
     - name: matrix
