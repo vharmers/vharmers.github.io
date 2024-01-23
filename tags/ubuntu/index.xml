@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ubuntu on Valentine&#39;s Blog</title>
     <link>https://www.vharmers.com/tags/ubuntu/</link>
     <description>Recent content in ubuntu on Valentine&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Aug 2022 17:47:51 +0200</lastBuildDate><atom:link href="https://www.vharmers.com/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Aug 2022 17:47:51 +0200</lastBuildDate>
+    <atom:link href="https://www.vharmers.com/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Passwordless LUKS setup with Clevis</title>
       <link>https://www.vharmers.com/posts/clevis/</link>
       <pubDate>Tue, 02 Aug 2022 17:47:51 +0200</pubDate>
-      
       <guid>https://www.vharmers.com/posts/clevis/</guid>
       <description>No more typing your LUKS password when booting up your system</description>
     </item>
-    
   </channel>
 </rss>

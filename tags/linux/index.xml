@@ -1,65 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>linux on Valentine&#39;s Blog</title>
     <link>https://www.vharmers.com/tags/linux/</link>
     <description>Recent content in linux on Valentine&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Mar 2023 20:00:00 +0100</lastBuildDate><atom:link href="https://www.vharmers.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Jan 2024 22:06:28 +0100</lastBuildDate>
+    <atom:link href="https://www.vharmers.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The OpSec Series - System Management</title>
+      <link>https://www.vharmers.com/posts/opsec_system_mgnt/</link>
+      <pubDate>Mon, 22 Jan 2024 22:06:28 +0100</pubDate>
+      <guid>https://www.vharmers.com/posts/opsec_system_mgnt/</guid>
+      <description>The last post in the OpSec series covering System Management with Ansible</description>
+    </item>
     <item>
       <title>The OpSec Series - Authentication</title>
       <link>https://www.vharmers.com/posts/opsec_auth/</link>
       <pubDate>Tue, 14 Mar 2023 20:00:00 +0100</pubDate>
-      
       <guid>https://www.vharmers.com/posts/opsec_auth/</guid>
       <description>The fourth post in the OpSec series covering Authentication</description>
     </item>
-    
     <item>
       <title>The OpSec blog series - E-mail encryption</title>
       <link>https://www.vharmers.com/posts/opsec_mail/</link>
       <pubDate>Tue, 13 Sep 2022 13:47:45 +0200</pubDate>
-      
       <guid>https://www.vharmers.com/posts/opsec_mail/</guid>
       <description>The second post in the OpSec blog series. This one covers e-mail encryption</description>
     </item>
-    
     <item>
       <title>Creating a digital life raft</title>
       <link>https://www.vharmers.com/posts/life_raft/</link>
       <pubDate>Fri, 09 Sep 2022 17:40:52 +0200</pubDate>
-      
       <guid>https://www.vharmers.com/posts/life_raft/</guid>
       <description>Learn how to create a digital life raft to use in emergencies</description>
     </item>
-    
     <item>
       <title>The OpSec blog series - Introduction</title>
       <link>https://www.vharmers.com/posts/opsec_intro/</link>
       <pubDate>Wed, 07 Sep 2022 01:31:21 +0200</pubDate>
-      
       <guid>https://www.vharmers.com/posts/opsec_intro/</guid>
       <description>Introduction to the OpSec blog series</description>
     </item>
-    
     <item>
       <title>My working environment throughout the years</title>
       <link>https://www.vharmers.com/posts/working_env/</link>
       <pubDate>Fri, 02 Sep 2022 18:28:45 +0200</pubDate>
-      
       <guid>https://www.vharmers.com/posts/working_env/</guid>
       <description>A story about how my working environment changed throughout the years</description>
     </item>
-    
     <item>
       <title>Passwordless LUKS setup with Clevis</title>
       <link>https://www.vharmers.com/posts/clevis/</link>
       <pubDate>Tue, 02 Aug 2022 17:47:51 +0200</pubDate>
-      
       <guid>https://www.vharmers.com/posts/clevis/</guid>
       <description>No more typing your LUKS password when booting up your system</description>
     </item>
-    
   </channel>
 </rss>
