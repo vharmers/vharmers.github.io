@@ -14,6 +14,9 @@ cover:
   relative: true
   hidden: false
 ---
+
+*This post is part of a larger series. You can find all posts over [here]({{< ref "/categories/opsec-series">}}).*
+
 Setting up systems can be a lengthy and boring process. It is easy to forget a step, execute it in the wrong order or use the wrong settings. I still remember the day when I had to reinstall the Operating System of my laptop on a yearly basis.
 
 Microsoft Windows has a tendency to become slower over time. Installing all kinds of software like games and Integrated Development Environments (IDEs) such as Visual Studio and Netbeans also didn’t help. Cleaning tools like CCleaner and Smart Defrag only got you so far. Sometimes the only thing left to do was to reinstall the OS and start fresh.
@@ -105,7 +108,7 @@ We now have 4 tasks. 3 for creating groups and 1 for creating a user. We can fur
 
 The new group task will execute the `ansible.builtin.group` command for each item in the loop list. The `{{ item }}` placeholder will be replaced with the name current item during a playbook execution. This optimization saves us from having to create tasks for each group we want to create.
 
-We now have two tasks we like to run on our systems let’s take a look at how we can put these tasks in a role.
+We now have two tasks we like to run on our systems. Let’s take a look at how we can put these tasks in a role.
 
 ## Role structure
 An Ansible role starts with the following directory structure:
@@ -443,6 +446,7 @@ mariadb_password: "{{ lookup('pass', 'infra/production/admin@db1.example.com') }
 You can use lookup plugins with the `lookup` function. The first argument of this function will always be the name of the plugin you wish to use. The rest of the arguments are passed to the plugin.
 
 Accessing credentials like this can be useful if you want to have access to credentials from multiple tools. You can for example load the credentials into a Bash or Python script in order to connect to the database to do some maintenance work.
+
 ## Managing privileges
 Making changes to an operating system such as Linux or Windows usually requires administrative privileges. You can tell Ansible for which tasks it should use admin privileges by using the become option. Here is an example of what I mean:
 
@@ -479,11 +483,12 @@ ansible-config init --disabled > ansible.cfg
 ```
 
 Feel free to use this file as a starting point for your own custom configuration. Remove the semicolon in front of a particular option to make it active.
-## Closing words
-There is much more I can tell you about Ansible but I believe this is enough to get you started. This blog post will be the last post of the OpSec Series. It also acts as a bridge to my next series of blog posts which will focus more on Infrastructure As Code (IAC).
 
-My goal with this new blog series is to give people a standardized and structured approach for deploying infrastructure in cloud and on-premise environments. I will mainly explain how IAC tools like Ansible, Terraform and Packer work and how they can be used effectively.
+## Closing words
+There is much more I can tell you about Ansible but I believe this is enough to get you started. This blog post will be the last post of the OpSec Series. It also acts as a bridge to my next series of blog posts which will focus more on Infrastructure as Code (IaC).
+
+My goal with this new blog series is to give people a standardized and structured approach for deploying infrastructure in cloud and on-premise environments. I will mainly explain how IaC tools like Ansible, Terraform and Packer work and how they can be used effectively.
 
 It has been about a year ago when I started this blog series and it has been an interesting journey. I often overestimated the time I needed to finish a blog post and always wanted them to be as complete as possible. Writing these blog posts has been a good tool to organize my knowledge and experiences. It is something that I want to continue to do.
 
-I guess that’s all I wanted to say. Have a good day. See you at my blog post series (or not if IAC does not interest you).
+I guess that’s all I wanted to say. Have a good day. See you at my blog post series (or not if IaC does not interest you).
