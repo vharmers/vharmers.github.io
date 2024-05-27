@@ -5,3 +5,5 @@
 !.gitignore
 !.gitmodules
 !.github*
+
+/public
