@@ -153,9 +153,9 @@ I think the clearest way to prove my point is to compare the (virtual) keyboards
 
 ![Virtual keyboards of the Garmin Drivesmart (top) and Tomtom GO Classic (bottom)](keyboards.png "The Drivesmart vs the Go Classic")
 
-As you can see, the Garmin keyboard is simple but practical while the Tomtom keyboard is stylish but less practical because the buttons are smaller, making it difficult to type in a destination. I also think the transparent interface of Tomtom is stylish but too distracting.
+As you can see, the Garmin keyboard is simple but practical while the Tomtom keyboard is stylish but less practical. The buttons are smaller, making it difficult to put in a destination. I also think the transparent interface of Tomtom is stylish but too distracting.
 
-I also like how the Drivesmart has a built-in route editor. You can send routes to the device by using Basecamp but also create and edit routes on the device itself. I think this is great since I use Basecamp to create all my routes but also regularly be the editor to do last-minute adjustments.
+I like how the Drivesmart has a built-in route editor. You can send routes to the device by using Basecamp but also create and edit routes on the device itself. I think this is great since I use Basecamp to create all my routes but also regularly be the editor to do last-minute adjustments.
 
 There is one last thing before I shut up about the Drivesmart: I really love the Trip Advisor integration and the ability to quickly find a parking spot. The people at Garmin understand that you can’t drive your car straight through the building entrance and have to leave it at a parking lot and enter the building on foot.
 
