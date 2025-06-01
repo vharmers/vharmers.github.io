@@ -26,7 +26,7 @@ params:
 
   ShowReadingTime: true
   ShowShareButtons: true
-  ShareButtons: ["linkedin", "twitter", "reddit"]
+  ShareButtons: ["linkedin", "twitter", "reddit", "facebook"]
   ShowPostNavLinks: false
   ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
@@ -56,8 +56,10 @@ params:
       url: "mailto:knagingen.adelaars-0d@icloud.com"
     - name: keybase
       url: "https://keybase.io/valentijnharmers"
-    - name: matrix
-      url: "https://matrix.to/#/@vharmers:matrix.org"
+    - name: mastodon
+      url: "https://mas.to/@vharmers"
+    - name: flickr
+      url: "https://www.flickr.com/people/vharmers/"
     - name: linkedin
       url: "https://www.linkedin.com/in/valentijnharmers/"
     - name: github
