@@ -7,8 +7,9 @@ showtoc: false
 description: "Travelin' The Netherlands Support Page"
 categories: ["Travel"]
 tags: ["gpx", "images"]
+aliases: ["traveling_nl"]
 cover:
-  image: "posts/traveling_nl/Oosterscheldekering.jpeg"
+  image: "posts/travelin_nl/Oosterscheldekering.jpeg"
   alt: "Oosterscheldekering"
   caption: "The cover image for Travelin' The Netherlands"
   relative: true
@@ -19,7 +20,9 @@ This post serves as the support page for my book "Travelin' The Netherlands". He
 
 You can buy the book at the following places:
 
- - Coming soon!
+ - [Kobo eBooks](https://www.kobo.com/ebook/travelin-the-netherlands)
+ - [LeanPub](https://leanpub.com/travelin_nl)
+ - More options coming soon!
 
 ## Route download
 
