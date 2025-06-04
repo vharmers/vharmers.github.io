@@ -22,7 +22,8 @@ You can buy the book at the following places:
 
  - [Kobo eBooks](https://www.kobo.com/ebook/travelin-the-netherlands)
  - [LeanPub](https://leanpub.com/travelin_nl)
- - More options coming soon!
+ - [Amazon Kindle](https://kdpbook.link/for/B0FBSXQKRW)
+ - [Apple Books](http://books.apple.com/us/book/id6746772057)
 
 ## Route download
 
