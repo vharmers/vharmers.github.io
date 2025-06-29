@@ -201,4 +201,4 @@ It also doesn’t mean that I agree with everything Apple does or like all the p
 ## Contacting the author
 I am always interested in the experiences of others. Maybe you had the same experiences as me or maybe something completely different? I would love to hear your view on this.
 
-The easiest way to reach me is through Twitter. My username is [@vharmers](https://twitter.com/vharmers). I am also reachable on [Keybase](https://keybase.io/valentijnharmers) and on Matrix where my username is @vharmers:matrix.org.
+The easiest way to reach me is through Mastodon. My handle is [@vharmers@mas.to](https://mas.to/@vharmers). Consult the [home page](/ "Home Page") for more contact options.
