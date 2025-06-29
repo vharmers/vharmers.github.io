@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Editing on Valentine&#39;s Blog</title>
+    <link>https://www.vharmers.com/tags/editing/</link>
+    <description>Recent content in Editing on Valentine&#39;s Blog</description>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Jun 2025 18:38:34 +0200</lastBuildDate>
+    <atom:link href="https://www.vharmers.com/tags/editing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The case against “Shooting for the edit”</title>
+      <link>https://www.vharmers.com/posts/shooting_for_the_edit/</link>
+      <pubDate>Sun, 29 Jun 2025 18:38:34 +0200</pubDate>
+      <guid>https://www.vharmers.com/posts/shooting_for_the_edit/</guid>
+      <description>A post about my first year of experience as a hobby photographer and reason to not shoot for the editing process</description>
+    </item>
+  </channel>
+</rss>
