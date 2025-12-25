@@ -36,7 +36,7 @@ dnf install clevis clevis-pin-tpm2 clevis-dracut clevis-systemd
 Now we configure clevis to unlock a specific partition for us:
 
 ```bash
-clevis luks bind -d /dev/sda3 tpm2 '{"pcr_ids":"7"}'
+clevis luks bind -d /dev/sda3 tpm2 '{"pcr_ids":"1,7"}'
 ```
 
 Replace `/dev/sda3` with the encrypted partition you want to unlock with
@@ -59,7 +59,7 @@ even ask you to input your password. Just be patient!
 {{< notice warning >}}
 I had a problem where installing the clevis package didn't
 trigger an initramfs rebuild. I solved it by simply running
-a `dnf upgrade` which would install a newer kernel version
+a __dnf upgrade__ which would install a newer kernel version
 and trigger a rebuild.
 
 You can also manually rebuild the initramfs by running the following command:
@@ -69,6 +69,6 @@ You can also manually rebuild the initramfs by running the following command:
 update-initramfs
 
 # Fedora
-dracut --regenerate-all
+dracut -fv --regenerate-all
 ```
 {{< /notice >}}
