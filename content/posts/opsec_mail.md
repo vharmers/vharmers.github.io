@@ -73,7 +73,7 @@ A normal user is not going to pay 40 euro's a year to get a nice checkmark behin
 {{< notice info >}}
 Most e-mail applications will display a checkmark behind the sender's name when the e-mail is digitally signed and successfully verified. Clicking on this checkmark will display some technical information about the sender's certificate. Here you can see how this looks in Apple Mail on iPadOS:
 
-![S/MIME Mail](smime_mail.png)
+![S/MIME Mail](smime_mail.jpg)
 
 The interface language is in Dutch, but you should still be able to make out some information such as my name (Valentijn Harmers), the name of my employer (NCC Group) and the name of the Certificate Authority who provided the certificate (Entrust, Inc).
 {{< /notice >}}

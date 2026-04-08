@@ -57,7 +57,7 @@ I will focus on Basecamp for the rest of this post. Just know that there are oth
 
 ## Garmin devices
 
-{{< figure src="devices.jpeg"
+{{< figure src="devices.jpg"
     caption="From left to right, top to bottom: Gpsmap 66s, eTrex SE, Drivesmart, Edge Explore"
     alt="My Garmin Devices"
 >}}
@@ -151,7 +151,7 @@ I mean the ones most teenagers make when they have to present about a certain to
 
 I think the clearest way to prove my point is to compare the (virtual) keyboards of both devices:
 
-![Virtual keyboards of the Garmin Drivesmart (top) and Tomtom GO Classic (bottom)](keyboards.png "The Drivesmart vs the Go Classic")
+![Virtual keyboards of the Garmin Drivesmart (top) and Tomtom GO Classic (bottom)](keyboards.jpg "The Drivesmart vs the Go Classic")
 
 As you can see, the Garmin keyboard is simple but practical while the Tomtom keyboard is stylish but less practical. The buttons are smaller, making it difficult to put in a destination. I also think the transparent interface of Tomtom is stylish but too distracting.
 
@@ -210,7 +210,7 @@ It’s also way more convenient to use a dedicated device for walking or hiking 
 
 ## Using Basecamp
 
-![Basecamp](basecamp.png)
+![Basecamp](basecamp.jpg)
 
 As explained earlier, Basecamp is the tool you want to use if you mean business. Sure, Garmin Connect and Explore can do some things for you but Basecamp has it all. I use it for managing car trips and hiking trails. I also use it to keep track of interesting places I want to visit.
 
