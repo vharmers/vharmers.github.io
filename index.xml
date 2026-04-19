@@ -6,8 +6,15 @@
     <description>Recent content on Valentine&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Apr 2026 18:30:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 19:30:00 +0200</lastBuildDate>
     <atom:link href="https://www.vharmers.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Current State of Software</title>
+      <link>https://www.vharmers.com/posts/state_of_software/</link>
+      <pubDate>Sun, 19 Apr 2026 19:30:00 +0200</pubDate>
+      <guid>https://www.vharmers.com/posts/state_of_software/</guid>
+      <description>Post discussing the current state of software.</description>
+    </item>
     <item>
       <title>Photography Workflow</title>
       <link>https://www.vharmers.com/posts/photography_workflow/</link>
