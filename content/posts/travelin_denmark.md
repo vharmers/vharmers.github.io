@@ -8,7 +8,7 @@ description: "The Journal of my trip to Denmark"
 categories: ["Travel"]
 tags: []
 ---
-From the 20th of April to the 27th of April 2026, I went on a holiday trip to Denmark. Just like with my trip through the Netherlands, I wanted to publish a journal about my experiences.
+From the 20th of April to the 27th of April 2026, I went on a holiday trip to Denmark. Just like with my trip through the Netherlands, I wanted to publish a journal about my experiences, and share some of the photos that I took.
 
 Here we go!
 
@@ -42,7 +42,27 @@ And while we are on the topic of speed, what’s the deal with the unlimited spe
 
 That’s enough about the road infrastructure (for now). After some driving, I arrived at the Weserstadion in Bremen and parked my car in the car park in front of the building. After making use of the stadium’s free restroom facilities, I started making my way to the old city center on foot. It was still raining a little, but luckily not as much as during the car ride.
 
+{{< figure src="Weserstadion.jpg"
+    caption="The entrance of the Weserstadion"
+    alt="Weserstadion"
+>}}
+
 Bremen reminded me of Manchester. It had many of the same elements. You had a blend of old and new architecture, graffiti, homeless people, and a high police presence. The historical city center was nice but felt a bit empty, since there was lots of space between the buildings. I took a walk through the famous Böttcherstraße and made my way back to the stadium. There was little time to see anything else.
+
+{{< figure src="StPetriDom.jpg"
+    caption="The back of the St.Petri Dom Kirche in Bremen"
+    alt="St.Petri Dom"
+>}}
+
+{{< figure src="Bremen.jpg"
+    caption="Tram rails leading to the St.Petri Dom"
+    alt="Bremen"
+>}}
+
+{{< figure src="Bottcherstrase.jpg"
+    caption="The Böttcherstraße in Bremen"
+    alt="Böttcherstraße"
+>}}
 
 My trip to Hamburg went without any problems. I arrived at Hotel Schmidt and got the key to my room. The hotel rooms were spread out over different buildings. Luckily, mine was in the main building. After taking some time to relax in my room, it was time to have dinner. I would have rather kept relaxing, since I was tired from my journey and would rather have had the evening to myself, but I was also hungry.
 
@@ -63,13 +83,33 @@ Just before arriving at the station, a man gave a little speech and went around 
 
 It took some time to orient myself after leaving the station, but after booting up my Garmin Montana and loading the Hamburg Citywalk track, I was on my way. I noticed some Roman-style architecture, passed by a large fountain, and took a picture of the Altonaer Theater.
 
+{{< figure src="AltonaerTheater.jpg"
+    caption="The front entrance of the Altonaer Theater"
+    alt="Altonaer Theater"
+>}}
+
 I slowly made my way to the harbor, walked by the many fish restaurants, and eventually ended up at the museum ship “Rickmer Rickmers”. The ship was built in the year 1896 as a steel sailing vessel. It first served as a freighter under the German flag, but was confiscated by the Portuguese during the First World War.
 
 The Portuguese used the ship for training, but it eventually ended up in a port near Lisbon where it gradually fell into disrepair. The vessel was towed to Hamburg in 1983 and restored to its former glory. It has been a museum ship ever since. Besides being a museum, the Rickmer Rickmers also houses a restaurant and a conference room.
 
+{{< figure src="RickmerRickmers.jpg"
+    caption="The Rickmer Rickmers"
+    alt="Rickmer Rickmers"
+>}}
+
 I had fun exploring the different decks and checking out the exhibitions. After my visit, I had a bite to eat at the restaurant next to the ship. I was quite hungry at this point. It was 15:00 hours and I had last eaten around 10:00 hours at the hotel. One thing I love about the Germans is that they know what a good meal is. You get a full plate of food, while in the Netherlands you are lucky to get two slices of bread.
 
 I took a nice photo of the Elbphilharmonie concert hall and paid a visit to St. Michaelis Church. My journey eventually ended at Hamburg’s Rathaus. My initial plan was to walk all the way back to Altona station, but it was already 17:00 hours at that point, so I called it a day and took the S-Bahn back to Othmarschen.
+
+{{< figure src="Elbphilharmonie.jpg"
+    caption="Elbphilharmonie concert hall"
+    alt="Elbphilharmonie"
+>}}
+
+{{< figure src="StMichaelis.jpg"
+    caption="St. Michaelis Church interior"
+    alt="St. Michaelis Church"
+>}}
 
 Another person made the rounds with a paper cup on my return journey. This time it was a young woman. Homelessness seems to be a recurring topic in my journals. While making my way to the concert hall today, I even walked onto a film set. They were recording a scene where a homeless person underneath a bridge was being taken away by police officers.
 
@@ -104,9 +144,24 @@ I parked my car and checked in at the parking meter. I always appreciate such a 
 
 The city of Odense felt quite peaceful. People were relaxing in the local park. I paid a visit to St. Canute's Church. Its interior was much simpler than that of St. Michaelis Church in Hamburg, but I didn’t see this as a bad thing. The church felt more welcoming as a result.
 
+{{< figure src="StCanuteInterior.jpg"
+    caption="St. Canute Church interior"
+    alt="St. Canute Church"
+>}}
+
+{{< figure src="StCanuteFront.jpg"
+    caption="St. Canute Church front view"
+    alt="St. Canute Church Front"
+>}}
+
 As I walked the streets, I noticed that there was a lot of empty space between the buildings. This empty space was, however, filled with concrete and stone. It gave things a sterile look. “It must get hot in here during the summer, with nothing to provide shade or absorb the heat,” I said to myself.
 
 After some exploration, I made my way to the Cultural Museum of Odense. I actually entered the museum grounds through the back gate and couldn’t find the ticket building. I ended up entering the administration building and got directions to the entrance from someone there.
+
+{{< figure src="BackEntranceOdenseMuseum.jpg"
+    caption="The back entrance of the Odense museum"
+    alt="Back Entrance Odense Museum"
+>}}
 
 The main building housed two exhibitions, and the rest were spread out through the different buildings on the grounds. I enjoyed going from building to building to see what was inside. It was a great place to learn about the history of Denmark. Sadly, I didn’t manage to visit all the buildings before closing time.
 
@@ -140,9 +195,29 @@ It was also interesting to learn that Roskilde was the original capital city and
 
 After my museum visit, I walked by Roskilde Cathedral and took some photos of the exterior of the building. It was an impressive structure. I would have loved to look inside, but I had to move on to the next destination. I wanted enough time to see Frederiksborg Castle, so I went back to my car and resumed my journey.
 
+{{< figure src="RoskildeCathedralBack.jpg"
+    caption="The back of the Roskilde Cathedral"
+    alt="Back of Roskilde Cathedral"
+>}}
+
+{{< figure src="RoskildeCathedralFront.jpg"
+    caption="The front of the Roskilde Cathedral"
+    alt="Front of Roskilde Cathedral"
+>}}
+
 About an hour later, I found myself parked in a parking space at the back of the castle. Frederiksborg has two parking areas: one at the front and one at the back. The one at the front is close to the entrance, but it is paid parking. The one at the back requires a walk through the castle grounds, but it is free to use.
 
 I grabbed my food jar from the trunk of my car and enjoyed a well-deserved meal before strolling to the entrance. Frederiksborg is a large castle. The building has a U-shape with four floors to explore.
+
+{{< figure src="FrederiksborgBackEntrance.jpg"
+    caption="The back entrance of Frederiksborg Castle"
+    alt="Back entrance Frederiksborg Castle"
+>}}
+
+{{< figure src="FrederiksborgSideView.jpg"
+    caption="A side view of Frederiksborg Castle"
+    alt="Frederiksborg Side View"
+>}}
 
 The tour started with the church. After this, I moved on to a more general section from where you could also visit the audience chamber of the castle. The tour covered two-thirds of the first floor (with the ground floor being the entrance level). I was guided to a staircase that brought me to the second floor.
 
@@ -171,13 +246,33 @@ I took a look at the map and decided on the route I would take. I would start wi
 
 The castle itself wasn’t that large, and you can only view part of it. There is a single staircase that provides access to several floors. Everything looked the same as during previous visits, but I noticed that a wall in one of the hallways had been painted blue. It had been white during my previous visits.
 
+{{< figure src="EgeskovSideView.jpg"
+    caption="The entrance to Egeskov Castle"
+    alt="The entrance to Egeskov Castle"
+>}}
+
 I also tried to recreate one of my favorite pictures, which is a photo of one of the windows in the staircase. It wasn’t a great success, since there was a different pan in the window frame, which meant that I couldn’t recreate the same composition.
 
 It was nice and quiet in the castle park. I had the opportunity to photograph the castle from different angles. There was a maze there, but it was closed off.
 
+{{< figure src="EgeskovFrontView.jpg"
+    caption="The front view of Egeskov Castle"
+    alt="The front of Egeskov Castle"
+>}}
+
+{{< figure src="EgeskovMaze.jpg"
+    caption="The maze in the Egeskov Castle Park"
+    alt="Egeskov Castle Park Maze"
+>}}
+
 After my visit to the park, I slowly made my way to the main attraction. There was a large barn that housed all kinds of classic cars and motorcycles. It was probably the main reason why all those motorcyclists were there. It was busy when I arrived.
 
 I discovered that they had expanded their collection quite a bit. The tour started with all kinds of classic cars from different time periods. They had a Ford Model T, but also an old Aston Martin, a DeLorean, a British double-decker bus, a whole bunch of mopeds, and even a helicopter. There were also lots of different motorcycles on display, and there were separate areas that housed the Rescue Museum and the Camping & Outdoor Museum. I also found the “Dracula Cave”, which was the only thing that felt unchanged compared to my previous visit.
+
+{{< figure src="EgeskovMuseum.jpg"
+    caption="The Egeskov Museum"
+    alt="The Egeskov Museum"
+>}}
 
 The Outdoor Museum had all kinds of tents and caravans on display. There were also some other vehicles that had been converted into campers by their owners. It was interesting to see the different tent designs. There were also different types of caravans, including one designed for outdoor use and a compact caravan.
 
@@ -204,6 +299,11 @@ I got in the car and made my way to the E20 freeway. I had, however, forgotten t
 This little detour cost me 20 minutes, but I still arrived at the ferry in time. I had booked a ticket for a specific time slot, so I had to be there on time. My ferry would depart at 12:20 hours and I arrived at the departure area around 11:20. Luckily, there was room on a ferry that left earlier. I only needed to wait 20 minutes or so.
 
 The ferry ride was around an hour, which gave me plenty of time to grab a bite to eat, use the restroom, and explore the ship. I took some photos on the observation deck and found a place to sit. The hour went by quickly and the announcement was made for passengers to return to their vehicles.
+
+{{< figure src="Ferry.jpg"
+    caption="A view from the ferry to Puttgarden"
+    alt="Ferry"
+>}}
 
 The ride from Puttgarden to Hamburg was relaxing, since there wasn’t a lot of traffic on the road. Things started getting more congested when I got close to Hamburg. Luckily, I did not need to take any off-ramps in that area and could therefore drive in the left lane, where traffic moved along a little more quickly.
 
