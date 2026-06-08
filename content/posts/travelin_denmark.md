@@ -1,13 +1,20 @@
 ---
 title: "Travelin’ Denmark"
-date: 2026-05-24T00:20:11+02:00
+date: 2026-06-08T00:19:20+02:00
 author: "Valentijn Harmers"
-draft: true
+draft: false
 showtoc: false
 description: "The Journal of my trip to Denmark"
 categories: ["Travel"]
 tags: []
+cover:
+  image: "posts/travelin_denmark/EgeskovCastle.jpg"
+  alt: "Egeskov Castle"
+  caption: "Egeskov Castle, located in Denmark"
+  relative: true
+  hidden: false
 ---
+
 From the 20th of April to the 27th of April 2026, I went on a holiday trip to Denmark. Just like with my trip through the Netherlands, I wanted to publish a journal about my experiences, and share some of the photos that I took.
 
 Here we go!
